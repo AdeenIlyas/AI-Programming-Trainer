@@ -1,0 +1,7 @@
+crewai-tools
+streamlit
+crewai 
+python-dotenv
+pylint==2.17.0
+cpp-linter==1.6.1
+javalang==0.13.0
